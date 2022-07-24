@@ -13,5 +13,6 @@
 
 If there are any questions, feel free to reach out! We have been communicating over discord & text.
 
+## UML sequence diagram
 
 ![CS361 Assignment 7](https://user-images.githubusercontent.com/88406501/180647287-d3deeeec-80b6-4dd6-a80e-4417cf5602f0.png)
