@@ -12,3 +12,6 @@
 5) You will see the random recycling fact being printed in the send.py terminal & see a print statement stating the message was recieved in recieve.py
 
 If there are any questions, feel free to reach out! We have been communicating over discord & text.
+
+
+![CS361 Assignment 7](https://user-images.githubusercontent.com/88406501/180647287-d3deeeec-80b6-4dd6-a80e-4417cf5602f0.png)
